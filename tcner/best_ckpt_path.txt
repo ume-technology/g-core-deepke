@@ -1,0 +1,1 @@
+./datagiikin/newdata2ner_oldtags/outputs\roberta_wwm_crf\checkpoint-756\model.pt

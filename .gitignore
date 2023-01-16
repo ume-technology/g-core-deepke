@@ -1,0 +1,8 @@
+.DS_Store
+*.pick
+*.pt
+__pycache__
+*.pyc
+.idea
+.vscode
+tcner/datagiikin/newdata2ner_oldtags/outputs
